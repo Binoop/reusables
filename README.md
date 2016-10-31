@@ -1,2 +1,2 @@
-# reusables
-Common resubale functions in multiple projects 
+# Reusables
+Common reusbale functions in multiple projects 
