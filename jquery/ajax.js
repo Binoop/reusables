@@ -1,7 +1,4 @@
 /**
- * Created by Binu on .
- *
- *
  * Common Reusable function for calling ajax requests with jquery "deferred.then()" object
  * @requirement : Jquery 1.8 >
  * @author Binoop V
